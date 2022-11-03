@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/VPA/
+https://nmfs-fish-tools.github.io/VPA
 
 **************
 
